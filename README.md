@@ -16,14 +16,14 @@ Não estou aqui para fingir que já sei tudo.
 
 Estou aqui para aprender, construir e mostrar o processo.
 
-💻 Sobre mim
-🎓 Estudante de Desenvolvimento de Sistemas
-🎯 Em busca do meu primeiro estágio em TI
-🛠️ Construindo projetos para transformar aprendizado em prática
-📚 Estudando desenvolvimento e fundamentos de programação
-🐛 Aprendendo muito com os bugs no caminho
-📈 Tentando evoluir um pouco a cada projeto
-🚀 O que estou fazendo atualmente
+Sobre mim
+Estudante de Desenvolvimento de Sistemas
+Em busca do meu primeiro estágio em TI
+Construindo projetos para transformar aprendizado em prática
+Estudando desenvolvimento e fundamentos de programação
+Aprendendo muito com os bugs no caminho
+Tentando evoluir um pouco a cada projeto
+O que estou fazendo atualmente
 [████████████████░░░░] Aprendendo
 [██████████████░░░░░░] Construindo projetos
 [████████████░░░░░░░░] Desenvolvendo portfólio
@@ -31,9 +31,10 @@ Estou aqui para aprender, construir e mostrar o processo.
 
 Meu foco neste momento é continuar estudando, criar projetos que demonstrem o que estou aprendendo e construir uma base sólida para entrar profissionalmente na área.
 
-🧰 Tecnologias e ferramentas
+  Tecnologias e ferramentas
 Linguagens e desenvolvimento
 
+Java
 
 
 
@@ -52,22 +53,21 @@ Esta lista acompanha minha evolução. Novas tecnologias entram conforme eu real
 
 Aqui estão alguns dos projetos que estou desenvolvendo durante minha jornada de aprendizado.
 
-Projeto	Descrição	Tecnologias
-🔧 Projeto 01	Em breve	Em desenvolvimento
-🔧 Projeto 02	Em breve	Em desenvolvimento
-🔧 Projeto 03	Em breve	Em desenvolvimento
+  Projeto	Descrição	Tecnologias
+Projeto 01	Em breve	Em desenvolvimento
+Projeto 02	Em breve	Em desenvolvimento
+Projeto 03	Em breve	Em desenvolvimento
 
 Prefiro ter projetos reais e explicados do que uma lista enorme de tecnologias que ainda não sei utilizar.
 
-📚 Atualmente estudando
-Desenvolvimento Web
+Atualmente estudando
 Lógica de programação
-JavaScript
+Java
 Git e GitHub
 Estruturação e organização de projetos
 Boas práticas de desenvolvimento
 Projetos pessoais para portfólio
-🎯 Meu objetivo
+Meu objetivo
 
 Conseguir minha primeira oportunidade de estágio em TI e transformar todo esse aprendizado em experiência prática.
 
@@ -79,7 +79,7 @@ CRIAR        ✓
 ERRAR        ✓
 APRENDER     ✓
 DESISTIR     ✗
-📊 Minha jornada
+Minha jornada
 
 Não estou tentando parecer um desenvolvedor pronto.
 
@@ -92,11 +92,7 @@ Cada rejeição faz parte da busca pela primeira oportunidade.
 O código ainda está sendo escrito.
 
 🌐 Onde me encontrar
-💼 LinkedIn
-📸 Instagram
-🎬 YouTube
-🎵 TikTok
-🔗 Todos os meus links
+https://beacons.ai/devsemhope
 > devsemhope_
 
 ERROR 404: experiência profissional não encontrada.
